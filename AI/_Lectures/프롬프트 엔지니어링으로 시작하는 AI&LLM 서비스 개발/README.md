@@ -3,3 +3,4 @@
 ## 참고
 
  - 깃허브: https://github.com/rein20/ai-service
+ - 깃허브: https://github.com/HanSeokhyeon
